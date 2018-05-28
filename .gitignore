@@ -1,0 +1,6 @@
+accounts/*
+config/media.yaml
+config/streams.yaml
+config/themes/*
+plugins/*
+themes/*
