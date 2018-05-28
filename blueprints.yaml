@@ -1,0 +1,13 @@
+name: Bootstrap4 Site
+version: 1.0.0
+description: "The **Bootstrap4 Site Skeleton** provides you with sample one page and blog content and plugins including: **Pagination**, **Breadcrumbs**, **Taxonomy List** and more."
+icon: comments
+author:
+  name: Team Grav
+  email: devs@getgrav.org
+  url: http://getgrav.org
+homepage: https://github.com/getgrav/grav-skeleton-bootstrap4
+demo: http://demo.getgrav.org/bootstrap4-skeleton
+keywords: bootstrap4, bootstrap, bootstrapper, blog, onepage, skeleton, pagination, breadcrumbs, feed, archives, relatedpages, random, simplesearch, taxonomy, taxonomylist
+bugs: https://github.com/getgrav/grav-skeleton-bootstrap4/issues
+license: MIT
