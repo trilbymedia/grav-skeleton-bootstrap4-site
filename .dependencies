@@ -1,38 +1,38 @@
 git:
     admin:
-        url: https://bitbucket.org/rockettheme/grav-plugin-admin
+        url: https://github.com/getgrav/grav-plugin-admin
         path: user/plugins/admin
         branch: master
     archives:
-        url: https://bitbucket.org/rockettheme/grav-plugin-archives
+        url: https://github.com/getgrav/grav-plugin-archives
         path: user/plugins/archives
         branch: master
     bootstrapper:
-        url: https://bitbucket.org/rockettheme/grav-plugin-bootstrapper
+        url: https://github.com/getgrav/grav-plugin-bootstrapper
         path: user/plugins/bootstrapper
         branch: master
     breadcrumbs:
-        url: https://bitbucket.org/rockettheme/grav-plugin-breadcrumbs
+        url: https://github.com/getgrav/grav-plugin-breadcrumbs
         path: user/plugins/breadcrumbs
         branch: master
     email:
-        url: https://bitbucket.org/rockettheme/grav-plugin-email
+        url: https://github.com/getgrav/grav-plugin-email
         path: user/plugins/email
         branch: master
     error:
-        url: https://bitbucket.org/rockettheme/grav-plugin-error
+        url: https://github.com/getgrav/grav-plugin-error
         path: user/plugins/error
         branch: master
     feed:
-        url: https://bitbucket.org/rockettheme/grav-plugin-feed
+        url: https://github.com/getgrav/grav-plugin-feed
         path: user/plugins/feed
         branch: master
     form:
-        url: https://bitbucket.org/rockettheme/grav-plugin-form
+        url: https://github.com/getgrav/grav-plugin-form
         path: user/plugins/form
         branch: master
     login:
-        url: https://bitbucket.org/rockettheme/grav-plugin-login
+        url: https://github.com/getgrav/grav-plugin-login
         path: user/plugins/login
         branch: master
     pagination:
