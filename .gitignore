@@ -1,7 +1,9 @@
 accounts/*
 config/media.yaml
 config/streams.yaml
+config/security.yaml
 config/themes/*
 plugins/*
 themes/*
 /.idea
+.DS_Store
